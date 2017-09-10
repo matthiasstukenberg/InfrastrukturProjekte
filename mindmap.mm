@@ -2,7 +2,6 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1473175041348" ID="ID_1863070396" MODIFIED="1473247299398" STYLE="oval" TEXT="IT Infrastruktur Projekte">
 <font NAME="Dialog" SIZE="18"/>
-<hook NAME="AutomaticEdgeColor"/>
 <hook NAME="MapStyle">
 <properties FIT_TO_VIEWPORT="false;"/>
 <map_styles>
@@ -40,6 +39,7 @@
 </stylenode>
 </map_styles>
 </hook>
+<hook NAME="AutomaticEdgeColor"/>
 <node CREATED="1473175622299" ID="ID_730358845" MODIFIED="1473175680723" POSITION="right" TEXT="Kapitel 1 Einf&#xfc;hrung">
 <edge COLOR="#007c7c"/>
 <node CREATED="1474087004883" ID="ID_816789646" MODIFIED="1474087011433" TEXT="Vorbestimmungen"/>
@@ -104,6 +104,7 @@
 <node CREATED="1473246565976" ID="ID_1414803949" MODIFIED="1473246946283" TEXT="Terminierung Projektplan">
 <node CREATED="1503599457359" ID="ID_1452177270" MODIFIED="1503603953329" TEXT="Kanboard Software"/>
 </node>
+<node CREATED="1505064681363" ID="ID_1411512468" MODIFIED="1505064692289" TEXT="Anpassung Disaster Recivery Guide"/>
 </node>
 <node CREATED="1473175743313" ID="ID_364043327" MODIFIED="1473175863629" POSITION="left" TEXT="Kapitel 4 Ausschreibung">
 <edge COLOR="#00ff00"/>
