@@ -104,7 +104,15 @@
 <node CREATED="1473246565976" ID="ID_1414803949" MODIFIED="1473246946283" TEXT="Terminierung Projektplan">
 <node CREATED="1503599457359" ID="ID_1452177270" MODIFIED="1503603953329" TEXT="Kanboard Software"/>
 </node>
-<node CREATED="1505064681363" ID="ID_1411512468" MODIFIED="1505064692289" TEXT="Anpassung Disaster Recivery Guide"/>
+<node CREATED="1505064681363" ID="ID_1411512468" MODIFIED="1505068621026" TEXT="Anpassung Disaster Recovery Guide">
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1505068625714" ID="ID_1007652790" MODIFIED="1505068732094" TEXT="Inventarisierung aller Hardware (f&#xfc;r Versicherung)"/>
+<node CREATED="1505068732916" ID="ID_1974107552" MODIFIED="1505068773238" TEXT="Dokumentationen Backup einspielen"/>
+<node CREATED="1505068774549" ID="ID_1197735493" MODIFIED="1505068789216" TEXT="Dokuemntation aufsetzen der Server von &quot;Scratch&quot;"/>
+<node CREATED="1505068789953" ID="ID_987892205" MODIFIED="1505068925644" TEXT="Kontakte f&#xfc;r technischen Support"/>
+<node CREATED="1505068926881" ID="ID_28740518" MODIFIED="1505068940948" TEXT="Kontakte f&#xfc;r Hardwarebeschaffung"/>
+<node CREATED="1505068942493" ID="ID_1840459656" MODIFIED="1505069031971" TEXT="Vorgehen Umgang und Anweisungen f&#xfc;r Mitarbeiter"/>
+</node>
 </node>
 <node CREATED="1473175743313" ID="ID_364043327" MODIFIED="1473175863629" POSITION="left" TEXT="Kapitel 4 Ausschreibung">
 <edge COLOR="#00ff00"/>
