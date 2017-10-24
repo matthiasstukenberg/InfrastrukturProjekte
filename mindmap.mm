@@ -2,6 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1473175041348" ID="ID_1863070396" MODIFIED="1473247299398" STYLE="oval" TEXT="IT Infrastruktur Projekte">
 <font NAME="Dialog" SIZE="18"/>
+<hook NAME="AutomaticEdgeColor"/>
 <hook NAME="MapStyle">
 <properties FIT_TO_VIEWPORT="false;"/>
 <map_styles>
@@ -39,7 +40,6 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor"/>
 <node CREATED="1473175622299" ID="ID_730358845" MODIFIED="1473175680723" POSITION="right" TEXT="Kapitel 1 Einf&#xfc;hrung">
 <edge COLOR="#007c7c"/>
 <node CREATED="1474087004883" ID="ID_816789646" MODIFIED="1474087011433" TEXT="Vorbestimmungen"/>
@@ -191,6 +191,7 @@
 <node CREATED="1503773842390" ID="ID_641971439" MODIFIED="1503773844423" TEXT="Scanner"/>
 </node>
 <node CREATED="1504775304312" ID="ID_1899475226" MODIFIED="1504775317779" TEXT="Support Accounts und Lizenzen dokumentieren"/>
+<node CREATED="1506016291692" ID="ID_718882749" MODIFIED="1506016308803" TEXT="Hinzuf&#xfc;gen neuer Server/Services"/>
 </node>
 <node CREATED="1482236340847" ID="ID_1379127791" MODIFIED="1482236373984" POSITION="left" TEXT="Kapitel 7 Controlling">
 <node CREATED="1482236735606" ID="ID_1734360714" MODIFIED="1482236741676" TEXT="Termineinhaltung"/>
@@ -207,6 +208,7 @@
 <node CREATED="1504968332063" ID="ID_15822715" MODIFIED="1504968353318" TEXT="Support Accounts">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1508834670451" ID="ID_1419693000" MODIFIED="1508834684930" TEXT="DiRT (Disaster Recovery Testing)"/>
 </node>
 </node>
 </map>
