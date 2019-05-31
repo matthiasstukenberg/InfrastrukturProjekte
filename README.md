@@ -1,4 +1,4 @@
 # InfrastrukturProjekte
 Mindmap zur Planung und Durchführung von IT Infrastrukturprojekten
 
-Programm welches zur Erstellung der Mindmap genutzt wurde ist Freemind v 1.01 (Info für den Fall von Kompatibilitätsproblemen)
+Nachdem das Projekt zwar mit Freemind begonnen wurde, wurde die Weiterentwicklung mit Freeplane gemacht, da FreeMind scheinbar nciht mehr weiterentwickelt wird
