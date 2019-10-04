@@ -264,6 +264,7 @@
 </node>
 <node TEXT="Shares per Registry neu anlegen" ID="ID_1889639533" CREATED="1570013872709" MODIFIED="1570013885343"/>
 <node TEXT="Offline Verf&#xfc;gbarkeits Einstellungen kontrollieren" ID="ID_960132478" CREATED="1570013888655" MODIFIED="1570013901198"/>
+<node TEXT="Fileserver zu Intranet Zone IE Settings hinzuf&#xfc;gen" ID="ID_1778016492" CREATED="1570188248922" MODIFIED="1570188272390"/>
 </node>
 <node TEXT="&#xdc;bertragung Zugriffsrechte" ID="ID_1084431689" CREATED="1558445908105" MODIFIED="1558445914905">
 <node TEXT="Terminalserver Profile" ID="ID_182998555" CREATED="1565171359369" MODIFIED="1565171371125"/>
